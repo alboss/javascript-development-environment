@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 34768143,
+      "firstName": "Anastacio",
+      "lastName": "Fay",
+      "email": "Raleigh85@gmail.com"
+    },
+    {
+      "id": 68313502,
+      "firstName": "Julius",
+      "lastName": "Watsica",
+      "email": "Sigrid_Welch58@yahoo.com"
+    },
+    {
+      "id": 6426712,
+      "firstName": "Tressie",
+      "lastName": "O'Conner",
+      "email": "Wilfredo79@hotmail.com"
+    },
+    {
+      "id": 6616554,
+      "firstName": "Eveline",
+      "lastName": "Graham",
+      "email": "Quinn.Satterfield71@gmail.com"
+    }
+  ]
+}
